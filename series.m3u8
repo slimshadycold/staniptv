@@ -2189,13 +2189,13 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEFLSHT03EP16.mp4
 http://s.netcine.tv/netcine-bucket/theflash/03dub/17-ALTO.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/l4kEkb" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP18
 http://s.netcine.tv/netcine-bucket/theflash/03dub/18-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kCSmru" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP19
+#EXTINF:-1 tvg-logo="https://goo.gl/l4kEkb" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP19
 http://content.uplynk.com/bf4f9095b7ce4342be3792e52d8a2af2.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/kCSmru" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP20 (LEG)
+#EXTINF:-1 tvg-logo="https://goo.gl/l4kEkb" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP20 (LEG)
 http://s.netcine.tv/netcine-bucket/theflash/03leg/20-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kCSmru" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP21 (LEG)
+#EXTINF:-1 tvg-logo="https://goo.gl/l4kEkb" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP21 (LEG)
 http://ntcdngs-u94c6mgg4.stackpathdns.com/ntcdnbucket/theflash/03leg/21-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kCSmru" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP22 (LEG)
+#EXTINF:-1 tvg-logo="https://goo.gl/l4kEkb" group-title="FLASH", [COLOR red] FLASH[/COLOR] T3|EP22 (LEG)
 http://ntcdngs-u94c6mgg4.stackpathdns.com/ntcdnbucket/theflash/03leg/22-ALTO.mp4
 
 
@@ -2892,13 +2892,13 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GTHMT03EP12.mp4
 http://s.netcine.tv/netcine-bucket/gotham/03dub/13-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://bit.ly/2hwGI2K" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP14
 http://s.netcine.tv/netcine-bucket/gotham/03dub/14-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Ji0VjV" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP15 (LEG)
+#EXTINF:-1 tvg-logo="http://bit.ly/2hwGI2K" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP15 (LEG)
 http://s.netcine.tv/netcine-bucket/gotham/03leg/15-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Ji0VjV" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP16 (LEG)
+#EXTINF:-1 tvg-logo="http://bit.ly/2hwGI2K" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP16 (LEG)
 http://s.netcine.tv/netcine-bucket/gotham/03leg/16-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Ji0VjV" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP17 (LEG)
+#EXTINF:-1 tvg-logo="http://bit.ly/2hwGI2K" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP17 (LEG)
 http://ntcdngs-u94c6mgg4.stackpathdns.com/ntcdnbucket/gotham/03leg/17-ALTO.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/Ji0VjV" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP18 (LEG)
+#EXTINF:-1 tvg-logo="http://bit.ly/2hwGI2K" group-title="GOTHAM", [COLOR golden] GOTHAM[/COLOR] T3|EP18 (LEG)
 http://ntcdngs-u94c6mgg4.stackpathdns.com/ntcdnbucket/gotham/03leg/18-ALTO.mp4
 
 
@@ -3630,6 +3630,52 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP10.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP11.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP12
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP12.mp4
+
+
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP01.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP02.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP03.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP04.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP05.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP06.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP07.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP08.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP9
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP09.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T1|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/NRCST01EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP01.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP02.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP03.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP04.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP05.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP06.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP07.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP08.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP9
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP09.mp4
+#EXTINF:-1 tvg-logo="http://cdn.shopify.com/s/files/1/0839/5903/products/978146508535_grande.jpeg?v=1472568790" group-title="NARCOS", [COLOR brown] NARCOS[/COLOR] T2|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP10.mp4
 
 
 #EXTINF:0 tvg-logo="http://iart.toaos.tk/i/tvshow/909374153_largethumb.jpg" group-title="SUPERNATURAL" , [COLOR blue] SUPERNATURAL[/COLOR] 
@@ -5388,13 +5434,13 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTT04EP12.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTT04EP13.mp4
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/files.websitetoolbox.com/134877/2312767" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP14
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTT04EP14.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP15
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/files.websitetoolbox.com/134877/2312767" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP15
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTT04EP15.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP16 (LEG)
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/files.websitetoolbox.com/134877/2312767" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP16 (LEG)
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTS04EP16.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP17 (LEG)
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/files.websitetoolbox.com/134877/2312767" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP17 (LEG)
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTS04EP17.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/FjCgty" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP18 (LEG)
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/files.websitetoolbox.com/134877/2312767" group-title="THE BLACKLIST", [COLOR red] TBLT[/COLOR] T4|EP18 (LEG)
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/THEBLCKLSTS04EP18.mp4
 
 

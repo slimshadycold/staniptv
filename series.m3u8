@@ -3583,6 +3583,28 @@ http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/HOOFCRDST04EP12.mp4
 #EXTINF:-1 tvg-logo="https://img.discogs.com/IxX3fLQbwfXeJ8FDcUP62J1erKM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4750407-1374330460-2433.jpeg.jpg" group-title=" HOUSE OF CARDS ", [COLOR grey] HSOFCD[/COLOR] T4|EP13 
 http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/HOOFCRDST04EP13.mp4
 
+
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] ME CHAMA DE BRUNA[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP01.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP02.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP03.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP04.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP05.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP06.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP07.mp4
+#EXTINF:-1 tvg-logo="http://therebels.top/images/11108685484849910851.jpg" group-title="ME CHAMA DE BRUNA", [COLOR pink] MCDB[/COLOR]  T1|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP08.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT (LEG)[/COLOR]
 http://0.0.0.0
 
@@ -3679,28 +3701,28 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP09.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP10.mp4
 
 
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] O EXORCISTA[/COLOR]  
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] O EXORCISTA[/COLOR]  
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP1
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP1
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP01.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP2
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP2
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP02.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP3
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP3
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP03.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP4
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP04.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP5
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP5
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP05.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP6
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP6
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP06.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP7
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP7
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP07.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP8
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP8
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP08.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP9
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP9
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP09.mp4
-#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP10
+#EXTINF:-1 tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_9-fWlILUAhXLipAKHVQBAZgQjRwIBw&url=http%3A%2F%2Fwww.adorocinema.com%2Fnoticias%2Fseries%2Fnoticia-124489%2F&psig=AFQjCNGUPWqwPqYhp9yMngVfrzKfF-OMPA&ust=1495496471593406" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP10
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP10.mp4
 
 

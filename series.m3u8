@@ -3679,6 +3679,31 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP09.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/NRCST02EP10.mp4
 
 
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] O EXORCISTA[/COLOR]  
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP01.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP02.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP03.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP04.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP05.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP06.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP07.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP08.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP9
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP09.mp4
+#EXTINF:-1 tvg-logo="http://m3u.me/dSV" group-title="O EXORCISTA", [COLOR black] OEXCT[/COLOR]  T1|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/TEXCRTS01EP10.mp4
+
+
 #EXTINF:-1 tvg-logo="http://www.renatoeiras.com/wp-content/uploads/2016/10/onceUponaTime.jpg" group-title="ONCE UPON A TIME", [COLOR purple] ONCE UPON A TIME[/COLOR]  
 http://0.0.0.0
 #EXTINF:-1 tvg-logo="http://www.renatoeiras.com/wp-content/uploads/2016/10/onceUponaTime.jpg" group-title="ONCE UPON A TIME", [COLOR purple] OUAT[/COLOR] T1|EP1

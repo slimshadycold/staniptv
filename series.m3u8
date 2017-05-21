@@ -7945,6 +7945,31 @@ http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DHEMT12EP14.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/DHEMT12EP15-16.mp4 
 
 
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WESTWORLD[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP2 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP9
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://goo.gl/p9Iw4K" group-title="WESTWORLD", [COLOR blue] WSTW[/COLOR] T1|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/WSTWRLDT01EP10.mp4
+
+
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/b6/db/d6/b6dbd6da03a0a22061c9686cd0f84145.jpg" group-title="Z NATION", [COLOR brown] Z NATION[/COLOR] 
 http://0.0.0.0 
 

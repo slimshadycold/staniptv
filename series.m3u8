@@ -377,6 +377,40 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/3PRCT01EP07.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/3PRCT01EP08.mp4
 
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP01.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP02.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP03.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP04.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP05.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP06.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP07.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP08.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP09.mp4
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer08/ondemand/ABLIAT01CP10.mp4
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Zkbs9C" group-title="AMERICAN HORROR STORY", [COLOR black] AMERICAN HORROR STORY[/COLOR]
 http://0.0.0.0
 

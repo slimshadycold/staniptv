@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] 
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] 
 http://0.0.0.0
 
 #EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP01
@@ -377,7 +377,7 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/3PRCT01EP07.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/3PRCT01EP08.mp4
 
 
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] 
 http://0.0.0.0
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbJSgNMpsoWU-WfbcyxNQGKk9yT7YMPxgSrC3200bS4cGOtST" group-title="A BIBLIA" , [COLOR brown] A BIBLIA[/COLOR] T01|EP01

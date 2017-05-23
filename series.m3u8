@@ -4632,53 +4632,102 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP07.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MCHDBRNT01EP08.mp4
 
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT (LEG)[/COLOR]
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT DUB[/COLOR]
 http://0.0.0.0
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP1 
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP9
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP09.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T1|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/MROBT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP1
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP01.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP2
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP02.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP3
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP03.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP4
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP04.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP5
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP05.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP6
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP06.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP7
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP07-up.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP8
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP08.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP9
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP09.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP10.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP11.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/34/19/b1/3419b1a1beae0ac8708ad119e31f7b5f.jpg" group-title="MR. ROBOT DUB", [COLOR blue] MR. ROBOT[/COLOR]  T2|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP12.mp4
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT LEG[/COLOR]
+http://0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP1 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP2 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP2 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP3 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP3 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP4 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP4 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP5 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP5 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP6 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP6 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP7 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP7 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP07.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP8 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP8 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP9 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP9 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP10 
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG" ,[COLOR red] MR. ROBOT [/COLOR] T1|EP10 
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS01EP10.mp4
 
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP1
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP1
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP01.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP2
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP2
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP02.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP3
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP3
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP03.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP4
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP04.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP5
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP5
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP05.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP6
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP6
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP06.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP7
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP7
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP07-up.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP8
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP8
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP08.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP9
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP9
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP09.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP10
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP10
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP10.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP11
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP11
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP11.mp4
-#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT (LEG)", [COLOR red] MR. ROBOT [/COLOR] T2|EP12
+#EXTINF:-1 tvg-logo="https://goo.gl/kia9g6" group-title="MR. ROBOT LEG", [COLOR red] MR. ROBOT [/COLOR] T2|EP12
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/MROBS02EP12.mp4
 
 

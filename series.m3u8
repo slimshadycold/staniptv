@@ -943,6 +943,50 @@ http://ntcdngs-u94c6mgg4.stackpathdns.com/ntcdnbucket/blindspot/02leg/20-ALTO.mp
 #EXTINF:-1 tvg-logo="https://goo.gl/prr9Zn" group-title="BLINDSPOT", [COLOR blue] BLINDSPOT[/COLOR] T2|EP21 (LEG)
 http://ca.netcine.tv/ntcdnbucket/blindspot/02leg/21-ALTO.mp4
 
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP11.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP12.mp4
+
+#EXTINF:0 tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/bd/bc/80/bdbc806a1a247373e9bc898bad2494d0.jpg" group-title="BLOODLINE" , [COLOR red] BLOODLINE[/COLOR] T01|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/BLODLNT01EP13.mp4
+
+
 #EXTINF:-1 tvg-logo="http://bit.ly/2pYYyj2" group-title="BROOKLYN 99", [COLOR yellow] BROOKLYN 99[/COLOR]
 http://0.0.0.0
 

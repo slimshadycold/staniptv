@@ -3602,7 +3602,380 @@ http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP15.mp4
 http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP16.mp4
 
 
-#EXTINF:-1 tvg-logo="https://programapilotoblog.files.wordpress.com/2013/08/homeland.jpg" group-title="HOMELAND", [COLOR yellow] HOMELAND[/COLOR] T
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP01.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP02.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP03.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP04.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP05.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP06.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP07.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP08.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP09.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP10.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP11.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP12.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP13.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP14
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP14.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP15
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP15.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP16
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP16.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP17
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP17.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP18
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP18.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP19
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP19.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP20
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP20.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP21
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP21.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T01|EP22
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT01EP22.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP01.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP02.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP03.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP04.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP05.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP06.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP07.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP08.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP09.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP10.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP11.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP12.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP13.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP14
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP14.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP15
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP15.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP16
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP16.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP17
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP17.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP18
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP18.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP19
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP19.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP20
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP20.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP21
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP21.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T02|EP22
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT02EP22.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP01.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP02.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP03.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP04.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP05.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP06.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP07.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP08.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP09.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP10.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP11.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP12.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP13.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP14
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP14.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP15
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP15.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP16
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP16.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP17
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP17.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP18
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP18.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP19
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP19.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP20
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP20.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP21
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP21.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T03|EP22
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT03EP22.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP01.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP02.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP03.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP04.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP05.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP06.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP07.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP08.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP09.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP10.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP11.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP12.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP13.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP14
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP14.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP15
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP15.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP16
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP16.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP17
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP17.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP18
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP18.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP19
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP19.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP20
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP20.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP21
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP21.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T04|EP22
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT04EP22.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP01.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP02.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP03.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP04.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP05.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP06.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP07.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP08.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP09.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP10.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP11.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP12.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP13.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP14
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP14.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP15
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP15.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP16
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP16.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP17
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP17.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP18
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP18.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP19
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP19.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP20
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP20.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP21
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP21.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T05|EP22
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRIMT05EP22.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP01 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/01-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP02 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/02-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP03 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/03-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP04 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/04-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP05 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/05-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP06 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/06-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP07 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/07-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP08 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/08-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP09 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/09-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP10 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/10-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP11 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/11-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP12 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/12-ALTO.mp4
+
+#EXTINF:0 tvg-logo="http://is5.mzstatic.com/image/thumb/Video49/v4/d6/f4/e8/d6f4e81c-3b42-478c-a2b6-97be63e4b7f1/mzl.uodtlzff.lsr/600x600bb-85.jpg" group-title="GRIMM" , [COLOR blue] GRIMM[/COLOR] T06|EP13 LEG
+http://s.netcine.tv/netcine-bucket/grimm/06leg/13-ALTO.mp4
+
+
+#EXTINF:-1 tvg-logo="https://programapilotoblog.files.wordpress.com/2013/08/homeland.jpg" group-title="HOMELAND", [COLOR yellow] HOMELAND[/COLOR] 
 http://0.0.0.0
 
 #EXTINF:-1 tvg-logo="https://programapilotoblog.files.wordpress.com/2013/08/homeland.jpg" group-title="HOMELAND", [COLOR yellow] HMLND[/COLOR] T1|EP1

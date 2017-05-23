@@ -1,5 +1,48 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] 
+http://0.0.0.0
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP01
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP01.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP02
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP02.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP03
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP03.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP04
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP04.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP05
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP05.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP06
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP06.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP07
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP07.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP08
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP08.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP09
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP09.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP10
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP10.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP11
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP11.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP12
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP12.mp4
+
+#EXTINF:0 tvg-logo="http://i45.tinypic.com/2vm6i3c.jpg" group-title="13 MEDOS" , [COLOR black] 13 MEDOS[/COLOR] T01|EP13
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/13MDST01EP13.mp4
+
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-NbbziITAc9Y/WOAnXMIeOKI/AAAAAAAAAio/FyE_eNiMEwgm2qybiHThQhQcmMa3ayFbACLcB/s600/13%2BReasons%2BWhy%2B%2528A%2BNetflix%2BOriginal%2BSeries%2BScore%2529%2B8.jpg" group-title="13 REASONS WHY ", [COLOR blue] 13RWHY[/COLOR]
 http://0.0.0.0
 
